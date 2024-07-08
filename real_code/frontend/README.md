@@ -1,3 +1,10 @@
+# Coding Standards
+
+## Branch Naming
+
+### develop_fe
+This is the branch for the front-end development. 
+
 # WM Concepts Front-End
 This is the main website for WM Concepts. There should be 4 pages: main page, client page, developer page, and mentor page. The client, developer, and mentor pages 
 should have a form to enter the corresponding information. For the client page, the user should be able to enter potential project details and submit them for our 
